@@ -1,5 +1,5 @@
 # https://ip-ranges.amazonaws.com/ip-ranges.json
-# Amazon服务器 - 参考https://www.hostloc.com/thread-422014-3-1.html
+# [1] - Amazon服务器 - 参考https://www.hostloc.com/thread-422014-3-1.html
 35.180.0.0/16
 52.93.178.234/32
 52.94.76.0/22
@@ -2783,7 +2783,41 @@
 15.161.135.164/30
 13.244.121.196/30
 
-# Whatsapp服务器（事实上开放了Telegram可用）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# [2] - Whatsapp Bussiness服务器
 # https://developers.facebook.com/docs/whatsapp/guides/network-requirements/
 31.13.64.51/32
 31.13.64.53/32
@@ -3037,3 +3071,33 @@
 198.11.251.32/27
 198.23.80.0/27
 208.43.115.192/27
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# [3] - TG 服务器 https://ipinfo.io/AS62041
+149.154.160.0/22
+149.154.164.0/22
+91.108.4.0/22
+91.108.56.0/22
+91.108.8.0/22
+95.161.64.0/20
